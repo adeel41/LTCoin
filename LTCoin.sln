@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTCoin", "LTCoin\LTCoin.csproj", "{A3F5F1A5-7CD3-48D0-8FB1-4149079195AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F5F1A5-7CD3-48D0-8FB1-4149079195AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F5F1A5-7CD3-48D0-8FB1-4149079195AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F5F1A5-7CD3-48D0-8FB1-4149079195AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F5F1A5-7CD3-48D0-8FB1-4149079195AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2E2C809-7BD3-4662-8CC4-36016FABF2BD}
+	EndGlobalSection
+EndGlobal
